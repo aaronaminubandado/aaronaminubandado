@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m Aaron 👋
 
-<!--
-**aaronaminubandado/aaronaminubandado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer with experience building and deploying production web applications.
 
-Here are some ideas to get you started:
+### 🚀 What I work with
+- Frontend: React, Next.js, Tailwind, shadcn
+- Backend: Node.js, Firebase, Supabase, PHP/Laravel
+- DevOps: GitHub Actions, Linux, Nginx, Apache
+- Databases: Firestore, PostgreSQL, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I’m building
+- Personal finance tools
+- Admin dashboards
+- POS and marketplace systems
+
+### 🌱 Currently learning
+- System design & scalability
+- Better testing practices
+- Cloud & deployment best practices
+
+### 📫 Reach me
+- Email: aaron.aminu1@gmail.com
+- LinkedIn: linkedin.com/in/yourprofile
