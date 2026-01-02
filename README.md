@@ -20,4 +20,4 @@ Fullstack developer with experience building and deploying production web applic
 
 ### 📫 Reach me
 - Email: aaron.aminu1@gmail.com
-- LinkedIn: linkedin.com/in/yourprofile
+- LinkedIn: www.linkedin.com/in/aaron-bandado
