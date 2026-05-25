@@ -46,4 +46,4 @@ I build and ship production web applications end-to-end from database design and
 
 ---
 
-*Open to internship and junior engineering opportunities.*
+*Open to internship and engineering opportunities.*
